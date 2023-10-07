@@ -1,5 +1,5 @@
-### Привет!
+### Hi, I'm Lev! 👋
 
-Меня зовут Лев, я Golang разработчик из Казани.
+I'm a Software Engineer.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lzakharov&locale=ru&show_icons=true&custom_title=Статистика)](https://github.com/lzakharov)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lzakharov&show_icons=true&custom_title=GitHub%20Stats)](https://github.com/lzakharov)
